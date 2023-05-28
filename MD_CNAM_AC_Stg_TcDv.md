@@ -1,22 +1,21 @@
-![](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.001.jpeg)	
+> Version RAC Stage - CNAM version 26.05.2023 + Stage index + Stage document
 
 ||||
 | :- | :- | :- |
 ||||
-||<p><a name="_toc422297117"></a>*4 Mai 2023*</p><p>**Rapport de la validation de l’Unité d’Activité (UA)**</p><p>**CNAM : Licence Informatique – Cours Gestion de Projet (M. Morel)**</p>||
+||<p><a name="_toc422297117"></a>*26 Mai 2023*</p><p>**Rapport de validation de technicien Développeur**</p><p>**CNAM : Rapport de Stage (M. Morel)**</p>||
 ||||
 
 
 
-ii
-Rapport de la validation de l’Unité d’Activité (UA)
+Rapport de validation de technicien Développeur
 
 
 
 ||
 | :- |
-|<p></p><p>*4 Mai 2023*</p><p> </p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>|
-|<p>**Rapport de la validation de l’Unité d’Activité (UA)**</p><p>CNAM : Licence Informatique – Cours Gestion de Projet (M. Morel)</p>|
+|<p></p><p>*26 Mai 2023*</p><p> </p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>|
+|<p>**Rapport de validation de technicien Développeur**</p><p>CNAM : Rapport de Stage (M. Morel)</p>|
 
 |<p>**Nom**</p><p>**Prenom**</p>|<p>Rivera-Torres</p><p>Sandra Carolina</p>|
 | :- | :- |
@@ -90,11 +89,10 @@ Rapport de la validation de l’Unité d’Activité (UA)
 # <a name="_toc298670436"></a><a name="_toc298670438"></a><a name="_toc301601456"></a><a name="_toc301607988"></a><a name="_toc301608002"></a><a name="_toc301608010"></a><a name="_toc301610847"></a><a name="_toc301612389"></a><a name="_toc301612552"></a><a name="_toc301615061"></a><a name="_toc301615210"></a><a name="_toc301615274"></a><a name="_toc301615684"></a><a name="_toc302656371"></a><a name="_toc302656375"></a><a name="_toc302656378"></a>Figures
 
 
-iii
-![](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.002.png)Rapport de la validation de l’Unité d’Activité (UA)	
+Rapport de validation de technicien Développeur	
 
 Auditeur : Rivera Sandra
-1. # <a name="_toc1728375"></a><a name="_toc134095124"></a>Note explicative
+1. # <a name="_toc134095124"></a><a name="_toc1728375"></a>Note explicative
 NOTE  (04.05.203): Pour l'instant je n'ai pas d'entreprise dans le cadre de la formation du Licence informatique CNAM, depuis avril dernier, j'ai commencé à travailler sur le projet de création du site web d’une association, en prenant en compte les recommandations avancées dans le rapport d'activité pour completer la formation Technicien Développeur. Dans le cadre de la formation en Licence Informatique CNAM, notre intervenant M. Morel nous a suggéré de nous mettre d'accord avec Mme. Buchweiller sur le sujet.
 1. # <a name="_toc134095125"></a>Informations personnelles 
 Nom : Mme RIVERA-TORRES 
@@ -163,14 +161,12 @@ Université Nationale de Colombie
 
 
 1. # <a name="_toc134095127"></a>Experience professionnelle
-**Durée totale votre expérience professionnelle : 18 années**
-
-**Durée de vote expérience informatique : 6 mois**
+**Durée totale votre expérience professionnelle : 18 années  -  Durée de vote expérience informatique : \_\_ mois**
 
 
 |**Emploi occupé**|**Entreprise et secteur d’activité**|**Durée de l’activité**|**Fonctions occupées**|
 | :- | - | - | - |
-|Tech Dev Web|<p>Le groupe Technopolis est originellement un cabinet d’évaluation de la science & technologie et de l’innovation en Europe, Asie, Afrique et Amerique (voir <https://www.technopolis-group.com/fr/>). L'unité d'affaires Amérique latine et Caraïbes est basée à Bogota, en Colombie. Monica Salazar est la directrice du bureau de Colombie qui dessert le marché de l'Amérique latine et des Caraïbes, et est soutenue par la coordination des bureaux européens du Groupe Technopolis (<https://www.technopolis-group.com/en/office/latin-america-and-the-caribbean-lac/> ).</p><p>Adaptation au site : <https://www.everynation.org/a-vision-to-reach-washington-dc/> </p><p>Association EBTN Eglise evangelique au Lille[^1]                                      Projet : **Développement du site web de l'église et intégration au réseau américain everynation[^2]**</p>|2023 (en cours)|<p>Développement du site web de l'église actuel <https://www.ebtn-lille.com/></p><p>Faire l’adaptation et l’intégration au réseau de everynation.</p><p></p>|
+|Tech Dev Web|<p>L'Eglise Evangélique Baptiste de Toutes les Nations - Lille est une communauté chrétienne située à Lille, en France. Elle fait partie de la tradition évangélique baptiste, qui se caractérise par une approche centrée sur la Bible. L'église accueille des personnes de différentes nationalités et cultures, reflétant sa vision d'être une église pour toutes les nations. Site web : https://www.ebtn-lille.com/</p><p>Adaptation au site : <https://www.everynation.org/a-vision-to-reach-washington-dc/> </p><p>Association EBTN Eglise evangelique au Lille[^1]                                      Projet :** Développement du site web de l'église et intégration au réseau américain everynation[^2]</p>|2023 (en cours)|<p>Développement du site web de l'église actuel <https://www.ebtn-lille.com/></p><p>Faire l’adaptation et l’intégration au réseau de everynation.</p><p></p>|
 |Consultant|<p>Le groupe Technopolis est originellement un cabinet d’évaluation de la science & technologie et de l’innovation en Europe, Asie, Afrique et Amerique (voir <https://www.technopolis-group.com/fr/>). L'unité d'affaires Amérique latine et Caraïbes est basée à Bogota, en Colombie. Monica Salazar est la directrice du bureau de Colombie qui dessert le marché de l'Amérique latine et des Caraïbes, et est soutenue par la coordination des bureaux européens du Groupe Technopolis (<https://www.technopolis-group.com/en/office/latin-america-and-the-caribbean-lac/> ).</p><p>Technopolis Group[^3]                   Projet :** *Assistance pour l'amelioration des systemes de production statistique dans le domaine de la science et de la technologie dans le cadre du programme FORCyT - OEI*</p>|2022 (4 Mois)|<p>Elaboration de guides methodologiques </p><p>Participation à la rédaction Élaboration du Guide pour la mesure des écarts entre les hommes et les femmes dans le domaine scientifique.</p><p>Élaboration de bases de données en MySQL, pour l’élaboration du rapport et des indicateurs nécessaires à l'évaluation, curation de données bibliométriques.</p>|
 |Assistante de projet |<p>Technopolis Group</p><p>` `Projet :** *Situational Analysis of Science, Technology, Engineering and Mathematics (STEM) Education policy and data for Latin America and Caribbean Countries*</p>|2021 (8 Mois)|Participation à la rédaction des rapports nationaux et à l’élaboration d'indicateurs sur l’Education (STEM) Education dans des pays de la region d’Amerique Latine et des Caraïbes|
 |Data Analyst|*Projet : Communautés de pratique du réseau ibéro-américain d'indicateurs scientifiques et technologiques (RICyT)*|2020** (9 mois)|Analyses de données et d’indicateurs et co-rédaction d'un chapitre publié dans le rapport annuel sur l'état de la science en Amérique latine (2020).|
@@ -179,7 +175,7 @@ Université Nationale de Colombie
 |Gestion des projets et analyste des données|*Observatoire Colombienne de Sciences et Techniques (OCyT)*|2010-2016|Activités : Coordination d'équipe pour l'axe thématique. Analyste de données pour la production d'indicateurs et d'études quantitatives appliqués aux secteurs d'activité : éducation, STI, santé et TIC et des évaluations des programmes liés aux politiques publiques dans l’enseignement superior.|
 |<p>Adjointe au Vice-rectorat de la Recherche</p><p></p>|*Université Nationale de Colombie (UNAL)*|2005 - 2010|Participation à la gestion des budgets et des ressources pour les projets de recherche. Collaboration à la définition du plan annuel d'investissement et de développement des unités de recherche.  Gestion des ressources de coopération des partenaires du secteur public.|
 |<p>Travail contractuel au Vice-rectorat Académique</p><p></p>|<p>*Université Nationale de Colombie (UNAL)*</p><p>Projet : Système d’Information Académique (SIA)</p><p></p>|2002 - 2004|Participation à la formulation des spécifications et des tests fonctionnels, la mise a jour des données et la documentation. Coordination de la mise en œuvre du module de gestion économique comprenant la facturation des frais scolaires, le système de paiement et les interfaces avec le système bancaire.|
-1. # <a name="_toc134095128"></a>Description d’experiences significatives en relations aux themes de L3
+1. # <a name="_toc134095128"></a>Description d’experiences significatives en relations aux themes de formation Technicien Développeur
 1. # <a name="_toc134095129"></a>Contexte du projet 
 La migration du site web <https://www.ebtn-lille.com/> vers <https://www.everynation.org/> en utilisant les technologies de microcomposants js css html springboot et vue pour le développement peut être effectuée en suivant les étapes suivantes :
 
@@ -246,7 +242,11 @@ En somme, l'objectif principal serait de créer un site web efficace, moderne, e
   - Couleurs, typographies et autres éléments de branding
   - Images, illustrations et autres éléments visuels
   - Wireframes et maquettes de pages pour la mise en page et la structure du site web
-    1. ### <a name="_toc134095138"></a>*Technologie et architecture :*
+
+Menú: <https://www.gracecov.org/chantilly/>
+
+Menú: <https://www.ebtn-lille.com/>
+1. ### <a name="_toc134095138"></a>*Technologie et architecture :*
 - Description des technologies de développement à utiliser, telles que :
   - Microcomposants js css html springboot et vue
   - Plateforme d'hébergement et serveur Web
@@ -282,27 +282,17 @@ En incluant l'intégration avec les sites web des autres églises du même rése
 |De quoi dispose-t-on ? **Ressources**|<p>-Equipe sur le projet </p><p>-Temps : 3 - 4 mois </p>|
 |Pour quand le veut-on ? **Calendrier**|-Eté  2023|
 |Qui fera quoi ? **Organisation**|-A déterminer |
-
 Source : Elaboration equipe de projet
 
 L'arbre fonctionnel et le diagramme de Gantt sont présentés ci-dessous, en tant qu'éléments généraux de la gestion d'un projet de développement de site web. En fonction du processus de développement, nous appliquons certains éléments de la méthodologie agile ou SCRUM.
 1. # <a name="_toc134095142"></a>Équipe du projet
 Les membres de cette équipe possèdent collectivement l'expertise nécessaire à ce projet, tant sur le plan thématique que méthodologique.
 
-|![A close up of a logo
-
-Description automatically generated](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.003.png)|Nous proposons une équipe qui, dans son ensemble, possède les capacités techniques et les compétences nécessaires pour gérer le projet d'application web : Reconnecter. Ce projet est réalisé dans le cadre du groupe de formation des développeurs techniques du CNAM.|
+||Nous proposons une équipe qui, dans son ensemble, possède les capacités techniques et les compétences nécessaires pour gérer le projet d'application web : Reconnecter. Ce projet est réalisé dans le cadre du groupe de formation des développeurs techniques du CNAM.|
 | :-: | - |
-|![A close up of a logo
-
-Description automatically generated](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.004.png)|Les membres de l'équipe ont développé la solution RE-Connexion grâce à des outils de gestion de projet informatique. Nous travaillons sous une architecture MVC et une infrastructure de services distribués dans le Cloud, qui répondent aux exigences et aux normes de qualité en vigueur.|
-|![A close up of a logo
-
-Description automatically generated](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.005.png)|Les membres de notre équipe ont des compétences dans le développement de solutions, au niveau du backend et du frontend, pour fournir un site web adapte responsive et adapté aux besoins des utilisateurs. |
-|![A close up of a logo
-
-Description automatically generated](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.006.png)|En plus de l'expérience de notre équipe principale, nous disposons de l'expérience d'experts dans le milieu associatif et dans les solutions informatiques.|
-
+||Les membres de l'équipe ont développé la solution RE-Connexion grâce à des outils de gestion de projet informatique. Nous travaillons sous une architecture MVC et une infrastructure de services distribués dans le Cloud, qui répondent aux exigences et aux normes de qualité en vigueur.|
+||Les membres de notre équipe ont des compétences dans le développement de solutions, au niveau du backend et du frontend, pour fournir un site web adapte responsive et adapté aux besoins des utilisateurs. |
+||En plus de l'expérience de notre équipe principale, nous disposons de l'expérience d'experts dans le milieu associatif et dans les solutions informatiques.|
 Notre équipe a développé les compétences et les connaissances nécessaires pour mener à bien ce projet, tant d'un point de vue technique que méthodologique. Nous présentons le rôle des membres de l'équipe, ainsi que leurs fonctions et responsabilités respectives dans le développement du projet. 
 
 |**Membre de l'équipe**|- **Rol**|- **Activités** |
@@ -312,11 +302,11 @@ Notre équipe a développé les compétences et les connaissances nécessaires p
 |Consultant externe|Tutor|- Expertise dans la sélection des outils et l'intégration des composants en Framework VUE et SpringBoot|
 |Pasteur S. Lee|Leader ASSO|- Concepteur des besoins des services web|
 
-9
-![](Aspose.Words.16aa1efd-5cb4-420a-aeb4-658730cd4264.007.png) Rapport de la validation de l’Unité d’Activité (UA) 
+` `Rapport de validation de technicien Développeur 
 
 1. # <a name="_toc134095143"></a>Etapes et outils mise en place
-   1. ## <a name="_toc134095144"></a>Phase I: Définition de maquettes du site (Mockups et flow) 
+<a name="_toc134095144"></a>Des actions suivantes sont mises en œuvre dans le cadre du stage afin de garantir une migration réussie et un déploiement correct du nouveau site web. Les étapes comprennent la planification du projet, la conception du nouveau site en utilisant les technologies de microcomposants JS, CSS, HTML, Spring Boot et Vue. Un prototype est créé pour évaluer les fonctionnalités et la mise en page du site. Ensuite, le développement du site commence en utilisant des composants modulaires pour assurer une structure efficace. Des tests approfondis sont effectués pour vérifier la fonctionnalité et la sécurité du site, en s'assurant de sa compatibilité avec différents navigateurs. La migration des données du site précédent vers le nouveau site est réalisée avec soin pour garantir l'intégrité des informations. Une fois toutes ces étapes complétées, le nouveau site est mis en ligne sur un serveur et une formation des utilisateurs est dispensée pour assurer une utilisation optimale.
+1. ## Phase I: Définition de maquettes du site (Mockups et flow) 
 Figma propose une version gratuite qui facilite également la collaboration, pour la conception des fonctionnalités du site web de l'église. Des interfaces avec un design system seront créées pour générer le code associé aux éléments et ses styles adaptés (mode responsive) selon la définition visuelle du site, et des prototypes pour la version du site web seront réalisés. Avantages dans la conception UX et UI pour créer un design system complet. Partage de projet pour collaborer à plusieurs sur le même projet en 100% cloud. Paramétrer les interactions de votre maquette, avec mode Prototype que permet de créer des liens entre les différentes pages et éléments de votre maquette pour donner un aperçu du site final. Préparer la maquettage UX de site web avant de commencer à développer des différents composants.
 1. ## <a name="_toc134095145"></a>Etape 1 - Créer un “style” pour le site 
 Le style guide se rapproche beaucoup de la charte graphique de l'église. C'est un document qui va regrouper l'ensemble des éléments utilisés dans la maquette et qui composeront votre future site web. Un style guide va par exemple regrouper l'iconographie de votre maquette web, les codes couleur, la typographie et la taille des polices (H1, H2, H3), les formes (boutons, background, angles, etc.), les sélecteurs ou sections call to action. Pour votre maquette Figma, comme pour votre développeur Webflow, un style guide est indispensable.
@@ -337,6 +327,104 @@ Une fois que le site web a été développé et testé avec succès, il est temp
 1. ## <a name="_toc134095153"></a>Etape 9 - Maintenance continue 
 Après le lancement du site web, il est important de continuer à le maintenir pour s'assurer qu'il reste à jour et fonctionne correctement. Cela implique de surveiller régulièrement les performances du site web, de corriger les erreurs et les bogues, de mettre à jour les fonctionnalités et les contenus, et d'optimiser l'ergonomie et le design en fonction des commentaires des utilisateurs.
 
+
+>
+ 1      | Introduction                                             |
+| 1.1    | Contexte du stage                                        |
+| 1.2    | Objectifs du rapport                                     |
+| 2      | Présentation de l'association                            |
+| 2.1    | Historique de l'association                              |
+| 2.2    | Mission et valeurs                                       |
+| 2.3    | Structure organisationnelle                             |
+| 3      | Description du projet                                    |
+| 3.1    | Besoins de l'association en termes de site web           |
+| 3.2    | Objectifs du projet                                      |
+| 3.3    | Choix des technologies et outils de développement       |
+| 4      | Méthodologie de travail                                  |
+| 4.1    | Planification et gestion du projet                       |
+| 4.2    | Étapes de développement                                  |
+| 4.3    | Collaboration avec l'équipe de l'association             |
+| 5      | Conception et architecture du site web                   |
+| 5.1    | Analyse des besoins fonctionnels et techniques           |
+| 5.2    | Conception de la base de données                         |
+| 5.3    | Architecture du site web (frontend et backend)           |
+| 6      | Développement du site web                                |
+| 6.1    | Implémentation des fonctionnalités principales           |
+| 6.2    | Intégration du design et de l'interface utilisateur      |
+| 6.3    | Tests et débogage                                        |
+| 7      | Difficultés rencontrées et solutions apportées           |
+| 7.1    | Problèmes techniques                                     |
+| 7.2    | Contraintes de délai et de ressources                     |
+| 7.3    | Adaptations et ajustements réalisés                      |
+| 8      | Résultats obtenus                                        |
+| 8.1    | Présentation du site web développé                       |
+| 8.2    | Fonctionnalités implémentées                             |
+| 8.3    | Réponses aux objectifs fixés                             |
+| 9      | Évaluation du stage                                      |
+| 9.1    | Acquis et apprentissages                                 |
+| 9.2    | Réflexion personnelle sur l'expérience de stage          |
+| 9.3    | Recommandations pour de futures améliorations            |
+| 10     | Conclusion                                               |
+| 10.1   | Bilan du stage                                           |
+| 10.2   | Perspectives d'évolution du site web de l'association    |
+| 11     | Annexes                                                  |
+| 11.1   | Diagrammes de conception                                |
+| 11.2   | Capture d'écran du site web                              |
+| 11.3   | Code source (si applicable)                              |
+
+
+>
+#   Introduction
+##	Contexte du stage
+L'Eglise Evangélique Baptiste de Toutes les Nations - Lille est une communauté chrétienne située à Lille, en France. Elle fait partie de la tradition évangélique baptiste, qui se caractérise par une approche centrée sur la Bible. L'église accueille des personnes de différentes nationalités et cultures, reflétant sa vision d'être une église pour toutes les nations. Son objectif est de partager et de proclamer l'évangile aux personnes de toutes les origines, langues et cultures.
+
+L'Eglise Evangélique Baptiste de Toutes les Nations - Lille organise des activités pour encourager la croissance spirituelle de ses membres. Elle cherche également à être un lieu de soutien et d'entraide pour la communauté locale.
+
+##	Objectifs du rapport
+#	Présentation de l'association
+##	Historique de l'association
+##	Mission et valeurs
+##	Structure organisationnelle
+# 	Description du projet
+##	Besoins de l'association en termes de site web
+##	Objectifs du projet
+##	Choix des technologies et outils de développement
+#	Méthodologie de travail
+##	Planification et gestion du projet
+##	Étapes de développement
+##	Collaboration avec l'équipe de l'association
+#	Conception et architecture du site web
+##	Analyse des besoins fonctionnels et techniques
+##	Conception de la base de données
+##	Architecture du site web (frontend et backend)
+#   Développement du site web
+
+> Sitio actual [EBTN](https://www.ebtn-lille.com// "Lien site actuel").
+> 
+> Nuevo sitio [Sitio de referencia](https://everynation.us/find-a-church/?filter=true&category=virginia) "Every Nation link"
+
+##	Implémentation des fonctionnalités principales
+##	Intégration du design et de l'interface utilisateur
+##	Tests et débogage
+#   Difficultés rencontrées et solutions apportées
+##	Problèmes techniques
+##	Contraintes de délai et de ressources
+##	Adaptations et ajustements réalisés
+#	Résultats obtenus
+##	Présentation du site web développé
+##	Fonctionnalités implémentées
+##	Réponses aux objectifs fixés
+#	Évaluation du stage
+##	Acquis et apprentissages
+##	Réflexion personnelle sur l'expérience de stage
+##	Recommandations pour de futures améliorations
+#	Conclusion
+##	Bilan du stage
+##	Perspectives d'évolution du site web de l'église
+#	Annexes
+##	Diagrammes de conception
+##	Capture d'écran du site web
+##	Code source (si applicable)
 
 [^1]: 
 [^2]: 
